@@ -12,7 +12,7 @@
 
 	<p>
 		The main page contains a <a href="https://leafletjs.com/">Leaflet</a> implementation, using
-		<a href="jawg.io">Jawg Streets</a> imagery as tilelayer.
+		<a href="https://jawg.io">Jawg</a> imagery as tilelayer.
 	</p>
 
 	<p>
